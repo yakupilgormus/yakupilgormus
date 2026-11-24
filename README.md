@@ -10,5 +10,5 @@
 
 ### Visitor Count
 <p align="center">
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/@yakupilgormus" alt="Visitor Count"/></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/@yakupilgormus?theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="Visitor Count"/></a>
 </p>
