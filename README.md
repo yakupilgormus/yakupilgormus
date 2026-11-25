@@ -20,4 +20,5 @@
 <div align="center">
   <p><b>Reach me here</b></p>
   <a href="https://smp11.simplex.im/a#_igBGOsKOhnfg6UhoEqnNHWFu16lcr7cl9RmL2bvj2Y"><img src="https://badgemaxxing.com/badge/v1/SimpleX-connected-lightgrey.svg?labelColor=blue&amp;logo=simplex&amp;anim=radar,crt" alt="SimpleX: connected">
+  <a href="https://wa.me/qr/R7HPEUDLW2TXM1"><img src="https://badgemaxxing.com/badge/v1/Whatsapp-active-grey.svg?labelColor=brightgreen&amp;anim=radar,crt" alt="Whatsapp: active">
 </div>
